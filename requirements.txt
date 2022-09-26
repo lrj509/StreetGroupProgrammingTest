@@ -1,0 +1,5 @@
+keras==2.2.4
+scikit-learn==0.21.3
+tqdm
+numpy
+h5py==2.10.0
